@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Les listes numérotée.
 Pour créér une liste numérotée (ou liste ordonnée), c'est finalement très intuitif:
 Commencez la ligne par un nombre suivi d'un point. Pour que votre *mardown* soit plus lisible, je vous conseille 
@@ -49,3 +50,16 @@ Pour un résultat:
 
 
 
+=======
+## Les liens
+
+Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
+
+"[TEXTE] (LIENS)"
+
+Cela donne:
+
+Rendez-vous sur  [Linkedin](https://www.linkedin.com/) pour vous créer un espace professionnel et donner accès à votre profil à vos potentiels futurs employeurs ou collègues !
+
+Cela permet donc d'insérer des liens dans votre texte en Markdown sans recourir au code HTML.
+>>>>>>> 7652b68a63e24d9e76734ff98a49cbbb1e49b233
