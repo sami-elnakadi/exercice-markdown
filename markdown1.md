@@ -2,7 +2,7 @@
 
 Pour créer un lien, vous devez placer le texte du lien entre crochets suivis de l'URL entre parenthèses :
 
-[TEXTE](LIENS)
+"[TEXTE] (LIENS)"
 
 Cela donne:
 
