@@ -32,7 +32,7 @@ Créer des listes en Markdown est un vrai bonheur, vous allez voir qu'il n'y a r
 ```
 ### Résultat
 
-* Une puce
-* Une autre puce
-* Et encore une autre puce !
+* Une puce
+* Une autre puce
+* Et encore une autre puce !
 
