@@ -7,8 +7,7 @@ Pour afficher l'image, vous devez simplement mettre un point d'exclamation devan
 ![img](https://www.laurasmulders.com/wp-content/uploads/2016/08/M0JJ0v8.png)
 
 ```
-![Zozor](https://www.laurasmulders.com/wp-content/uploads/2016/08/M0JJ0v8.png)
-)
+![img](https://www.laurasmulders.com/wp-content/uploads/2016/08/M0JJ0v8.png)
 
 
 
