@@ -23,4 +23,10 @@ Ensuite, nous allons créer une liste ul - li, pour "isoler" ce bout de code du 
 		</li>
 	</ul>
 ```
+ou encore
 
+```javascript
+><script type="text/javascript">
+>    alert("Hello!");
+>		</script>
+```
