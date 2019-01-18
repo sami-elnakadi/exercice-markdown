@@ -1,6 +1,17 @@
 ## Coloration syntaxique
 
-Il faut d'abord créer une liste ul - li, pour ensuite 
+Ici nous souhaitons colorer la syntaxe d'une ligne de code provenant d'un autre language de programmation.
+
+Partons de ceci: 
+
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+
+Nous pouvons voir que la syntaxe est incolore, et donc peu lisible, voyons maintenant comment rendre la chose plus pratique!
+
+Il faut d'abord préciser le code utiliser dans l'extrait que nous avons sélectionné.
+Ensuite, nous allons créer une liste ul - li, pour "isoler" ce bout de code du reste.
 
 ```html
 
