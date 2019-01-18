@@ -23,7 +23,14 @@ Ensuite, nous allons créer une liste ul - li, pour "isoler" ce bout de code du 
 		</li>
 	</ul>
 ```
-ou encore
+ou encore en ajoutant 
+
+"``` type de code
+
+votre code en commencant chaque ligne par >
+et ferme avec ```
+
+Ce qui donne ceci: 
 
 ```javascript
 ><script type="text/javascript">
