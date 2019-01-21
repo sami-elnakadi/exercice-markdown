@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 # Les images animées.
 
@@ -20,7 +19,8 @@ Pour un résultat:
 
 ![image animée](https://tenor.com/view/fallout76-evil-smile-scheming-plotting-gif-13253745)
 =======
->>>>>>> 707b8c748c96de156503632b8fff404a63c7707a
+
+
 ## Coloration syntaxique
 
 Ici nous souhaitons colorer la syntaxe d'une ligne de code provenant d'un autre language de programmation.
@@ -72,10 +72,3 @@ Pour afficher l'image, vous devez simplement mettre un point d'exclamation devan
 
 ```
 ![img](https://www.laurasmulders.com/wp-content/uploads/2016/08/M0JJ0v8.png)
-
-
-
->>>>>>> origin/Pierre
-=======
->>>>>>> 7652b68a63e24d9e76734ff98a49cbbb1e49b233
->>>>>>> 707b8c748c96de156503632b8fff404a63c7707a
