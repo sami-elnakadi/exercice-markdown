@@ -104,5 +104,5 @@ Rendez-vous sur  [Linkedin](https://www.linkedin.com/) pour vous créer un espac
 Cela permet donc d'insérer des liens dans votre texte en Markdown sans recourir au code HTML.
 =======
 
-### [suite de l'article] (https://github.com/sami-elnakadi/exercice-markdown/blob/master/markdown2.md) 
+### [suite de l'article](https://github.com/sami-elnakadi/exercice-markdown/blob/master/markdown2.md) 
 

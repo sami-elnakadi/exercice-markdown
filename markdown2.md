@@ -72,4 +72,4 @@ Pour afficher l'image, vous devez simplement mettre un point d'exclamation devan
 ```
 ![img](https://www.laurasmulders.com/wp-content/uploads/2016/08/M0JJ0v8.png)
 
-### [suite de l'article] (https://github.com/sami-elnakadi/exercice-markdown/blob/master/markdown1.md) 
+### [suite de l'article](https://github.com/sami-elnakadi/exercice-markdown/blob/master/markdown1.md) 
